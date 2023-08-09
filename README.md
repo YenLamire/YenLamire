@@ -10,6 +10,16 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code></td>
 		</tr>
 	</table>
+	<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=YenLamire&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=YenLamire&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YenLamire&show_icons=true" />
+</picture>
 </div>
 
-![YenLamire's GitHub stats](https://github-readme-stats.vercel.app/api?username=YenLamire&show_icons=true&theme=radical)
